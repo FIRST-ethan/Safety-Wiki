@@ -3,6 +3,8 @@
 > [!NOTE]
 > To view the directery of artciles [click this](#Directory)
 
+The Safety Wiki is a project from Team 353 POBots. You are welcome to use this to learn and educate others, if you want to contribute please read [this file (WIP)].
+
 ## Directory
 
 - [FIRST materials](Content/FIRST%20materials.md)
