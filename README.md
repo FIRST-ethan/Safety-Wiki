@@ -1,7 +1,7 @@
 # Safety-Wiki
 
 > [!NOTE]
-> To view the directery of artciles [click this](#Directory)
+> To view the directery of articles [click this](#Directory)
 
 The Safety Wiki is a project from Team 353 POBots. You are welcome to use this to learn and educate others, if you want to contribute please read [this guide](CONTRIBUTING.md).
 
