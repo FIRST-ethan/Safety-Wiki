@@ -14,3 +14,7 @@ The Safety Wiki is a project from Team 353 POBots. You are welcome to use this t
 - [Safety Equitment](Content/Safety%20Equitment.md)
 - [Safety Program](Content/Safety%20Program.md)
 - [Miscellaneous Safety](Content/Miscellaneous%20Safety.md)
+- [Competition Safety](Content/Compeition.md)
+- [Safety Documentation](Content/Documentation.md)
+- [Robot Batteries](Content/Robot%20Batteries.md)
+- [Robot](Content/Robot.md)
