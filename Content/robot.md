@@ -1,37 +1,31 @@
-# Robot Safety
+# Safety Documentation
 
-Robots are the main star of the show in robotics, but they an already create many safety issues. While there is a lot to do with it, most of it is "dont be stupid".
+There are many pieces of Safety Documentation teams should have and/or would be helpful. Some of the documentation is informational, some for prevention and some for response. In addition some documentation falles into multiple categories.
 
-## Dont be stupid
+## Safety Manual
 
-For this section, there is not much to it. It is mainly use common sense. Dont have sharp edges on your robot, dont program it to go full speed into somebody, dont put the battery at the top of the robot etc. If you use common sense, you will be fine for this section.
+The FIRST Safety Manual contains general safety information. More info can be seen on the [FIRST materials](FIRST%20materials.md) page.
 
-## Mechanical
+## Safety Data Sheets
 
-For mechanical aspects of the robot, you should not be storing energy. For example, when you are done working on a robot release all the sprigs so they cant snap back suddonly. Also lower parts of robots that can be lowered, storing a robot with an arm exted 10 feet in the air is asking for trouble.
+Safety Data Sheets are documents that has any information about that product that you would need to know for safety. Everything from the composition, to flammability, to handling/care and so on. They are assessable on the manufactures website for download and/or printing.
 
-## Eletrical
+## Incident Report Sheets
 
-### Annoucning Clear
+Incident report sheets is what you can use to log/report incidents medical and non-medical. They should include the 5 W's of what happened, Who, What, When, Where, Why. 
 
-When you are turning on the robot you should loudly annouce **CLEAR** so everybody around the robot know it is being turned on. Things can suddonly move and wires become energized, so letting everybody alert and able to move out of the way is extreemly importent.
+For example if somebody slips when screwing in a screw and punches the piece the incident report should have the following info:
 
-### Working with power
+- When: February­ 30th 2026 at 3:53 pm
+- Who: John Doe
+- Where: POB JFK High School Room 168 (the shop)
+- What: John Doe punched a piece of wood
+- How: They were screwing in a screw, the driver slipped and they punched the piece of wood.
 
-The robot runs on 12V and wont kill you doesnt mean you should work with hot wires. It can give you a shock but also fry compoents leaving your team with a big bill.
+An example of a non-medical report could if be if somebody knocks off a robot battery from a table and it spills:
 
-### Pnumatics
-
-Pnumatics is a system similer to hyrdrolics but uses pressurised air. The only time pnumatics should be pressurised is when you are about to use them. This counts if you are waiting in queue, but at the end of the day, in transport, etc it should not be pressureised.
-
-## Programming
-
-### Annoucning Clear
-
-When you are turning on the robot you should loudly annouce **CLEAR** so everybody around the robot know it is being turned on. Things can suddonly move and wires become energized, so letting everybody alert and able to move out of the way is extreemly importent.
-
-You should **ALSO** announjce clear when you are enabling the robot. For the same reason things can move, and it gives people a chance to get out of the way and become alert.
-
-### Correct Code
-
-When running code, make sure it is the correct code. Its not only running the correct version but also inputing correct data such as what alliance you are on. You do not want the robot going full speed in the wrong direction breaking something or worse into a person.
+- When: February 30th 2026 at 15:53 pm
+- Who: Jane Doe
+- Where: POB JFK High School Room 168 (the shop)
+- What: Robot battery was knocked off a table and spilled
+- Why: Jane Doe was moving a tote and did not see the battery knocking it off the table
