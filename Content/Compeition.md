@@ -8,7 +8,7 @@ The pits are where robots are located when not on the field and where all the to
 
 ### Pit Admin
 
-Pit Admin is the source of just about any piece of information at competition. If you have questions about anything, they will either know the answer, or they will get you to the person that will know the right answer. There are some things that you are supposed to go to them for. For example if there is a battery spill you should go to Pit Admin so they can contact event management in case the venue has something special that needs to be done.
+Pit Admin is the source of just about any piece of information at competition. If you have questions about anything, they will either know the answer, or they will get you to the person that will know the right answer. There are some things that you are supposed to go to them for. For example if there is a [battery spill](Robot%20Batteries.md) you should go to Pit Admin so they can contact event management in case the venue has something special that needs to be done.
 
 ## Breaks
 
