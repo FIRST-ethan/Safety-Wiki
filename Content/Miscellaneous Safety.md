@@ -1,4 +1,5 @@
 # Miscellaneous Safety
+This page contains topics that are important but dont particuraly fall into a specific catagory. Topics in the page are Daisy Chaining and Lifting Heavy Things.
 
 ## No Daisy Chaining
 Daisy chaining is defined as the process of connecting multiple things together in a series. In the context of this wiki, it is defined as plugging in a power strip into another power strip. This is dangerous because it causes the power strip to become overloaded. For example if I plug in a power strip with 4 ports into a wall outlet, then a plug in another 4 port power strip into each of those 4 outlets I can now plug in 16 devices. A standard home circuit is rated for 15A, so is each power strip, so I can safely draw a max of 15A, but lets say I max out each of the 4 daisy chained power strips, then that first power strip will be drawing 60A from the outlet causing the outlet to heat up and then catch on fire. 
