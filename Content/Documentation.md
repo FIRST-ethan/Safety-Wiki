@@ -8,11 +8,11 @@ The FIRST Safety Manual contains general safety information. More info can be se
 
 ## Safety Data Sheets
 
-Safety Data Sheets are documents that has any information about that product that you would need to know for safety. Everything from the composition, to flammability, to handling/care and so on. They are assessable on the manufactures website for download and/or printing.
+Material Safety Data Sheets (MASA or Safety Data Sheet (SDS)) are documents that has just about any information about that product that you would need to know for safety. Everything from the composition, to flammability, to handling/care and so on. They are accessible on the manufactures website for download and/or printing.
 
 ## Incident Report Sheets
 
-Incident report sheets is what you can use to log/report incidents medical and non-medical. They should include the 5 W's of what happened, Who, What, When, Where, Why. 
+Incident report sheets is what you can use to log/report medical and non-medical incidents. They should include the 5 W's of what happened, Who, What, When, Where, Why. 
 
 For example if somebody slips when screwing in a screw and punches the piece the incident report should have the following info:
 
@@ -24,7 +24,7 @@ For example if somebody slips when screwing in a screw and punches the piece the
 
 An example of a non-medical report could if be if somebody knocks off a robot battery from a table and it spills:
 
-- When: February 30th 2026 at 15:53 pm
+- When: February 30th 2026 at 15:53
 - Who: Jane Doe
 - Where: POB JFK High School Room 168 (the shop)
 - What: Robot battery was knocked off a table and spilled
