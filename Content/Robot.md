@@ -4,7 +4,7 @@ Robots are the main star of the show in robotics, but they an already create man
 
 ## Don’t be stupid
 
-For this section, there is not much to it. It is mainly use common sense. Don’t have sharp edges on your robot, don’t program it to go full speed into somebody, don’t put the battery at the top of the robot etc. If you use common sense, you will be fine for this section.
+For this section, there is not much to it. It is mainly using common sense. Don’t have sharp edges on your robot, don’t program it to go full speed into somebody, don’t put the battery at the top of the robot etc. If you use common sense, you will be fine for this section.
 
 ## Mechanical
 
