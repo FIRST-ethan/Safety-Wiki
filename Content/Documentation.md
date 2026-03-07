@@ -8,7 +8,7 @@ The FIRST Safety Manual contains general safety information. More info can be se
 
 ## Safety Data Sheets
 
-Material Safety Data Sheets (MASA or Safety Data Sheet (SDS)) are documents that has just about any information about that product that you would need to know for safety. Everything from the composition, to flammability, to handling/care and so on. They are accessible on the manufactures website for download and/or printing.
+Material Safety Data Sheets (MSDS or Safety Data Sheet (SDS)) are documents that has just about any information about that product that you would need to know for safety. Everything from the composition, to flammability, to handling/care and so on. They are accessible on the manufactures website for download and/or printing.
 
 ## Incident Report Sheets
 
