@@ -1,7 +1,7 @@
 # Safety-Wiki
 
 > [!NOTE]
-> To view the directery of articles [click this](#Directory)
+> To view the directory of articles [click this](#Directory)
 
 The Safety Wiki is a project from Team 353 POBots. You are welcome to use this to learn and educate others, if you want to contribute please read [this guide](CONTRIBUTING.md).
 
@@ -13,3 +13,4 @@ The Safety Wiki is a project from Team 353 POBots. You are welcome to use this t
 - [Personal Protective Equitment](Content/Personal%20Protective%20Equitment%20(PPE).md)
 - [Safety Equitment](Content/Safety%20Equitment.md)
 - [Safety Program](Content/Safety%20Program.md)
+- [Miscellaneous Safety](Content/Miscellaneous%20Safety.md)
